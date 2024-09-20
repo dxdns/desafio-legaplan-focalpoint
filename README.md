@@ -6,10 +6,7 @@ Este projeto foi desenvolvido como parte do desafio da LegaPlan, seguindo as ins
 
 O aplicativo de lista de tarefas permite que os usuários gerenciem suas tarefas diárias de forma simples e eficiente. Com uma interface intuitiva, você pode adicionar, editar e remover tarefas, além de marcar as concluídas.
 
-<div style="display: flex; gap: 50px;">
-  <img src="src/assets/focalpoint.png" alt="Interface 1" width="900" height="auto" style="max-height: 800px;"/>
-  <img src="src/assets/focalpoint-mobile.png" alt="Interface 2" width="325" height="auto" style="max-height: 600px;"/>
-</div>
+![Exemplo da interface do aplicativo](src/assets/focalpoint.png)
 
 ## Tecnologias Utilizadas
 
