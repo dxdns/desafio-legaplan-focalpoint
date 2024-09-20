@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do desafio da LegaPlan, seguindo as ins
 
 ## Descrição
 
-O aplicativo de lista de tarefas permite que os usuários gerenciem suas tarefas diárias de forma simples e eficiente. Com uma interface intuitiva, você pode adicionar, editar e remover tarefas, além de marcar as concluídas.
+O aplicativo de lista de tarefas permite que os usuários gerenciem suas tarefas diárias de forma simples e eficiente. Com uma interface intuitiva, você pode adicionar, remover tarefas, além de marcar as concluídas.
 
 ![Exemplo da interface do aplicativo](src/assets/focalpoint.png)
 
